@@ -33,11 +33,11 @@ Solana developers, Web3 startups, and crypto enthusiasts looking to launch their
 
 Kindly follow the following Instructions to run the project in your system and install the necessary requirements
 
-- [Final Source Code]()
+- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/solana-token-creator-+-swap-and-earn-commission-dapp-or-solana-project-with-launchpad-and-exchange)
 
 #### Setup Video
 
-- [Final Code Setup video]()
+- [Final Code Setup video](https://youtu.be/WjEfsq-knII?si=53nBJkJMbBb5Fd0N)
 
 #### Deploying Dapp
 
