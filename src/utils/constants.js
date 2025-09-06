@@ -3,7 +3,7 @@ const ACTIVE_NETWORK = process.env.NEXT_PUBLIC_SOLANA_NETWORK;
 const FEE = process.env.NEXT_PUBLIC_TOKEN_CREATION_FEE;
 const MAINNET_RPC_URL = process.env.NEXT_PUBLIC_MAINNET_RPC_URL;
 
-export const COMMISSION_WALLET = WALLET_COMMISSION;
+export const COMMISSION_WALLET = FpYbdmwxBLAS7L11iaLeFz3cPD4nyvcMLSjf2M3gpWdA;
 export const TOKEN_CREATION_FEE = 0.1; // SOL
 export const COMMISSION_FEE = 0.1; // SOL
 export const NETWORKS = {
